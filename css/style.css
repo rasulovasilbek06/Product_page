@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+head{
+    display: inline-block;
+}
+.head{
+    font-size: 3vh;
+}
+.product{
+    margin: 1rem 2.5rem;
+}
+.brand{
+    margin: -3rem 46.5rem ;
+}
+.model{
+    margin: -2rem 42.5rem;
+}
+#input{
+    margin: 4rem 0.5rem;
+}
+input{
+    font-size: 4vh;
+}
+.i1{
+    margin: 0rem 2rem;
+}
+.i2{
+    margin: 0rem 5em;
+}
+.i3{
+    margin:  0rem 0rem;
+    /* margin-top: 0rem; */
+}
+table{
+    margin: -1rem 2.4rem;
+}
+#ch1{
+    background-color: rgb(0, 183, 255);
+}
